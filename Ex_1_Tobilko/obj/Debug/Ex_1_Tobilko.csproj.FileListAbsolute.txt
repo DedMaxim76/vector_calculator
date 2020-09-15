@@ -1,0 +1,10 @@
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\bin\Debug\Ex_1_Tobilko.exe.config
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\bin\Debug\Ex_1_Tobilko.exe
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\bin\Debug\Ex_1_Tobilko.pdb
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\obj\Debug\Ex_1_Tobilko.csprojAssemblyReference.cache
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\obj\Debug\Ex_1_Tobilko.Form1.resources
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\obj\Debug\Ex_1_Tobilko.Properties.Resources.resources
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\obj\Debug\Ex_1_Tobilko.csproj.GenerateResource.cache
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\obj\Debug\Ex_1_Tobilko.csproj.CoreCompileInputs.cache
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\obj\Debug\Ex_1_Tobilko.exe
+D:\C#\Ex_1\Ex_1_Tobilko\Ex_1_Tobilko\obj\Debug\Ex_1_Tobilko.pdb
